@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on internal challenges promoted by [compass.uol](https://compass.uol) (internship)
 - 🌱 I’m currently learning TypeScript, Node.js, Express, MongoDB, AWS Cloud Context
-- 📫 How to reach me: [brunolpsousa.gmail.com](mailto:brunolpsousa@gmail.com)
+- 📫 How to reach me: [brunolpsousa@gmail.com](mailto:brunolpsousa@gmail.com)
 
 <!--
 **brunolpsousa/brunolpsousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
