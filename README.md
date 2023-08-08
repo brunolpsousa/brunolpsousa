@@ -1,7 +1,7 @@
 ## Hi, I'm Bruno!
 
 - 📚 Studying Analysis and Systems Development
-- 🔭 Currently working on internal projects and challenges promoted by [compass.uol](https://compass.uol) (internship)
+- 🔭 Currently working on projects and challenges promoted by [compass.uol](https://compass.uol) (internship)
 - 🌱 Currently learning TypeScript, Node.js, Express, MongoDB and AWS Cloud Context
 
 <div><br>
