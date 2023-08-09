@@ -7,8 +7,8 @@
 <div><br>
   <h3>Stats</h3>
   <div align="center">
-    <img width="49%" height="195px" src= "https://readmestats.999857.xyz/api?username=brunolpsousa&show_icons=true&theme=transparent" />
-    <img width="49%" height="195px" src= "https://readmestats.999857.xyz/api/top-langs/?username=brunolpsousa&layout=compact&theme=transparent"/>
+    <img width="49%" height="195px" src= "https://readmestats.999857.xyz/api?username=brunolpsousa&show_icons=true&rank_icon=github&theme=tokyonight&bg_color=00000000" />
+    <img width="49%" height="195px" src= "https://readmestats.999857.xyz/api/top-langs?username=brunolpsousa&layout=compact&theme=tokyonight&bg_color=00000000"/>
   </div>
 </div>
 
