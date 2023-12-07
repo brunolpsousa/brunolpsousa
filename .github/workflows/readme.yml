@@ -16,14 +16,14 @@ jobs:
         id: stats
         name: Download the stats file
         with:
-          url: ${{ vars.URI_API }}/api?username=brunolpsousa&show_icons=true&rank_icon=github&theme=tokyonight&bg_color=00000000 # Put your own vercel instance URL here
+          url: ${{ vars.URI_API }}/${{ vars.API_STATS }} # Put your own vercel instance URL here
           target: grs
           filename: stats.svg # Need to have the file name prepared as svg
       - uses: suisei-cn/actions-download-file@v1.3.0
         id: langs
         name: Download the top langs file
         with:
-          url: ${{ vars.URI_API }}/api/top-langs?username=brunolpsousa&layout=compact&theme=tokyonight&bg_color=00000000
+          url: ${{ vars.URI_API }}/${{ vars.API_LANGS }}
           target: grs
           filename: langs.svg
       - uses: actions/upload-artifact@master
