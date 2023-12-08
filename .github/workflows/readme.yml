@@ -30,10 +30,6 @@ jobs:
         with:
           name: stats
           path: grs
-      - uses: actions/upload-artifact@master
-        with:
-          name: langs
-          path: grs
 
   push:
     permissions: write-all
@@ -44,10 +40,6 @@ jobs:
       - uses: actions/download-artifact@master
         with:
           name: stats
-          path: grs
-      - uses: actions/download-artifact@master
-        with:
-          name: langs
           path: grs
       - name: Push
         uses: crazy-max/ghaction-github-pages@v3
