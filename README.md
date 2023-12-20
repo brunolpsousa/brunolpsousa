@@ -5,7 +5,8 @@ const me = {
   name: "Bruno Sousa",
   occupation: "Web Developer",
   graduation: "Analysis and Systems Development (in progress)",
-  about: "I'm passionate about technology, programming and innovation. Looking for challenges and continuous learning."
+  about: "I'm passionate about technology, programming and innovation. \
+          Looking for challenges and continuous learning."
 }
 ```
 <br><div style="display: inline_block">
