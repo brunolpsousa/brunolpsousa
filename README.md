@@ -5,13 +5,12 @@ const me = {
   name: "Bruno Sousa",
   occupation: "Web Developer",
   graduation: "Analysis and Systems Development (in progress)",
-  about: "I'm passionate about technology, programming and innovation. \
-          Looking for challenges and continuous learning."
+  about: "I'm passionate about technology, programming and innovation. Looking for challenges and continuous learning."
 }
 ```
 <br><div style="display: inline_block">
   <h3> :desktop_computer: Tools</h3>
-  <img align="center" alt="Tools" src="https://skillicons.dev/icons?i=linux,bash,git,docker,ts,js,nodejs,express,mongodb,aws">
+  <img align="center" alt="Tools" src="https://skillicons.dev/icons?i=linux,bash,git,docker,ts,nodejs,express,nestjs,nextjs,aws">
 </div><br>
 
 <br><div>
