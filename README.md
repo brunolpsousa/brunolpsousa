@@ -2,15 +2,15 @@
 
 ```javascript
 const me = {
-  name: "Bruno Sousa",
-  occupation: "Web Developer",
-  graduation: "Analysis and Systems Development (in progress)",
+  name: 'Bruno Sousa',
+  occupation: 'Backend Developer at compass.uol',
+  graduation: 'Analysis and Systems Development',
   about: "I'm passionate about technology, programming and innovation. Looking for challenges and continuous learning."
 }
 ```
 <br><div style="display: inline_block">
   <h3> :desktop_computer: Tools</h3>
-  <img align="center" alt="Tools" src="https://skillicons.dev/icons?i=linux,bash,git,docker,ts,nodejs,express,nestjs,nextjs,aws">
+  <img align="center" alt="Tools" src="https://skillicons.dev/icons?i=bash,git,docker,ts,nodejs,nestjs,nextjs,java,openshift">
 </div><br>
 
 <br><div>
