@@ -16,7 +16,7 @@ jobs:
         id: stats
         name: Download the stats file
         with:
-          url: ${{ secrets.URI_API }}/${{ vars.API_STATS }} # Put your own vercel instance URL here
+          url: ${{ secrets.URI_API }}/${{ vars.API_STATS_WITH_RANK_ICON }} # Put your own vercel instance URL here
           target: grs
           filename: stats.svg # Need to have the file name prepared as svg
       - uses: suisei-cn/actions-download-file@v1.3.0
