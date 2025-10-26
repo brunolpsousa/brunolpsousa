@@ -3,7 +3,7 @@
 ```javascript
 const me = {
   name: 'Bruno Sousa',
-  occupation: 'Backend Developer at compass.uol',
+  occupation: 'Fullstack Developer at V.tal',
   graduation: 'Analysis and Systems Development',
   about: "I'm passionate about technology, programming and innovation. Looking for challenges and continuous learning."
 }
